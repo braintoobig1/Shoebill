@@ -5,6 +5,11 @@
       <map>
         <entry key="..\:/Users/brand/AndroidStudioProjects/ShoeBill/app/src/main/res/layout/activity_main.xml" value="0.24010416666666667" />
         <entry key="..\:/Users/brand/AndroidStudioProjects/ShoeBill/app/src/main/res/layout/fragment_login_screen.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/brand/AndroidStudioProjects/Shoebilll/app/src/main/res/drawable/loginbuttonbackground.xml" value="0.1595" />
+        <entry key="..\:/Users/brand/AndroidStudioProjects/Shoebilll/app/src/main/res/drawable/passwordbackground.xml" value="0.1595" />
+        <entry key="..\:/Users/brand/AndroidStudioProjects/Shoebilll/app/src/main/res/drawable/usernamepasswordbackground.xml" value="0.1595" />
+        <entry key="..\:/Users/brand/AndroidStudioProjects/Shoebilll/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/brand/AndroidStudioProjects/Shoebilll/app/src/main/res/layout/fragment_login_screen.xml" value="0.25416666666666665" />
       </map>
     </option>
   </component>

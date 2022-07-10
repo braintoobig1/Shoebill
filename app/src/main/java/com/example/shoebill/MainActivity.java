@@ -11,7 +11,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        
+
         getSupportFragmentManager().beginTransaction().add(R.id.fragment, LoginScreen.newInstance(), "fragment").addToBackStack(null).commit();
     }
 }
